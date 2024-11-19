@@ -1,0 +1,10 @@
+{
+    "name": "IPERFANTASIA",
+    "version": "0.0.1",
+    "description": "this plugin allows the cat to increase its creativity and intelligence by drilling it into an open source model of the openAI o1 model",
+    "author_name": "Andrea Pesce",
+    "author_url": "",
+    "plugin_url": "",
+    "tags": "o1, creativity, tools",
+    "thumb": ""
+}
